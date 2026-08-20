@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ylqg0l.qrmenu42.com/sitemap.xml
